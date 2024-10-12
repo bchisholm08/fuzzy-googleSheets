@@ -1,2 +1,4 @@
 # fuzzy-googleSheets
-Code for Google Sheets macros
+Code I wrote for Google Sheets macros. 
+# 
+Not super useful, just a time keeping function
